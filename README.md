@@ -4,7 +4,9 @@ Full featured Hacker News client.
 
 ## Category Posts Feed
 
-![Category Feed](./assets/hn-ios-feed-animation-sm.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-feed-animation-sm.mp4" type="video/mp4">
+</video>
 
 **Categories**
 - Top Stories
@@ -19,7 +21,9 @@ Full featured Hacker News client.
 - Recent
 
 **Custom pull to refresh & animation**
-![Custom Reload](./assets/hn-ios-feed-reload-sm.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-feed-reload-sm.mp4" type="video/mp4">
+</video>
 
 
 ## Posts
@@ -34,34 +38,49 @@ Full featured Hacker News client.
     - draggable to location, custom animation
 - threads
 
-![](./assets/hn-ios-post-share-comments.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-post-share-comments.mp4" type="video/mp4">
+</video>
 
 #### Draggable Scroll To Next 
 
-![](./assets/hn-ios-scroll-drag.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-scroll-drag.mp4" type="video/mp4">
+</video>
 
 
 ## Authors
 
 Sheet navigation, activities, sort by recent best, profile
 
-![Author](./assets/hn-ios-author-sm.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-author-sm.mp4" type="video/mp4">
+</video>
 
 ## Past Posts Feed
 
-![](./assets/hn-ios-past-feed-2.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-past-feed-2.mp4" type="video/mp4">
+</video>
 
 ## Search
 
-![](./assets/hn-ios-search.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-search.mp4" type="video/mp4">
+</video>
 
 
 ## Saved Posts & History
 
-![](./assets/hn-ios-save-history.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-save-history.mp4" type="video/mp4">
+</video>
 
 ## User
-![](./assets/hn-ios-user-load.mp4)
+<video width="320" height="240" controls>
+  <source src="./assets/hn-ios-user-load.mp4" type="video/mp4">
+</video>
+
 ![](./assets/hn-ios-user.png)
 
 ### Login
